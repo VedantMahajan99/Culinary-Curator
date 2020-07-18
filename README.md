@@ -1,3 +1,3 @@
-# Culinary-Curator
+# Cuisine-Curator
 
 http://culinarycurator.surge.sh/
